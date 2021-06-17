@@ -2,7 +2,7 @@
 
 ## Computer Languages
 
-`Julia`, `Matlab`, `R`, `Bash`, as well as some proficiency in `Python`, `C++`, `Haskell`, and `SQL`
+`Julia`, `Matlab`, `R`, `Bash`, as well as some proficiency in `Python`, `C++`, `Haskell`, and `SQL`.
 
 ## Probability & Statistics
 
