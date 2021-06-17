@@ -1,10 +1,8 @@
-@def title = "DataSturgeon"
-
 # About DataSturgeon
 
 We are scientists that _love_ the technical side of things. We've invested years perfecting a very specific skill-set, so that you won't have to. Occasionally, the success of your research depends on mastering some technically challenging method. We offer our expertise in order to solve this problem and elevate your work. 
 
-As our client, you will get a dedicated and skilled expert working on demand to complete the task as thoroughly and quickly as possible. Check out our [skills](pages/skills) to see if we can help you solve your specific problem.  
+As our client, you will get a dedicated and skilled expert working on demand to complete the task as thoroughly and quickly as possible. Check out our [skills](/pages/skills/) to see if we can help you solve your specific problem.  
 
 
 # Why DataSturgeon?
