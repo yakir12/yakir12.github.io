@@ -26,4 +26,6 @@ Here is an example of how DataSturgeon might help a researcher in her work:
 
 # Contact
 
-By ~~~<a href="mailto:datasturgeon@gmail.com">email</a>~~~.
+~~~
+By <a href="mailto:datasturgeon@gmail.com">email</a>.
+~~~
