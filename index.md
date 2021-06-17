@@ -1,11 +1,11 @@
-# About DataSturgeon
+# About
 
 We are scientists that _love_ the technical side of things. We've invested years perfecting a very specific skill-set, so that you won't have to. Occasionally, the success of your research depends on mastering some technically challenging method. We offer our expertise in order to solve this problem and elevate your work. 
 
 As our client, you will get a dedicated and skilled expert working on demand to complete the task as thoroughly and quickly as possible. Check out our [skills](/skills) to see if we can help you solve your specific problem.  
 
 
-# Why DataSturgeon?
+# Why
 
 In today's interdisciplinary research, expert knowledge is often required. Until now, this need has been answered by hiring a long-term postdoc, collaborating with an equally busy researcher, or learning the required skill yourself. While all three ways have their own merits, they can often be expensive, inefficient, and time-consuming. By decentralizing the more technical tasks in your research, you can manage your time more wisely.  
 
