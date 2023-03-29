@@ -24,4 +24,4 @@ Here is an example of how DataSturgeon might help a researcher in her work:
 
 # Contact
 
-By [email](mailto:datasturgeon@gmail.com).
+By [email](mailto:yakir@datasturgeon.com).
