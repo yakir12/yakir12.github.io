@@ -3,7 +3,8 @@
 ================================================================== */
 
 :root {
-  --block-background: #f8f8f8;
+  --block-background: hsl(0, 0%, 94%);
+  --output-background: hsl(0, 0%, 98%);
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%);
@@ -121,7 +122,7 @@ h6 {
 
 .franklin-content h1 {
   padding-bottom: 0.5em;
-  border-bottom: 3px solid lightgrey; 
+  border-bottom: 3px double lightgrey;
   margin-top: 1.5em;
   margin-bottom: 1em;
 }
@@ -166,12 +167,10 @@ td {
 
 .franklin-content blockquote {
   background: var(--block-background);
-  /* border-left: 7px solid #a8a8a8; */
+  border-left: 7px solid #a8a8a8;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  /* font-style: italic; */
-  border: 1px solid #a8a8a8;
-  border-radius: 10px;
+  font-style: italic;
 }
 
 .franklin-content blockquote p {
@@ -241,12 +240,10 @@ td {
     IMAGES in CONTENT
 ================================================================== */
 
-/* img {height: 1em;}  */
-
 .franklin-content img {
-  width: 100%;
+  width: 70%;
   text-align: center;
-  /* padding-left: 10%; */
+  padding-left: 10%;
 }
 
 .franklin-content .img-small img {
@@ -279,6 +276,11 @@ body { counter-reset: eqnum; }
   padding-right: 5px;
 }
 
+.nonumber .katex-display::after {
+  counter-increment: nothing;
+  content: "";
+}
+
 /* ==================================================================
     CODE & HIGHLIGHT.JS
 ================================================================== */
@@ -306,15 +308,15 @@ code {
   border-radius: 10px;
 }
 
-.hljs-meta,
-.hljs-metas,
-.hljs-metap { font-weight: bold; }
+.hljs-meta { font-weight: bold;}
 
-.hljs-meta { color: rgb(25, 179, 51); }
+.hljs-meta.shell_ {color: crimson;}
+.hljs-meta.prompt_ {color: rgb(25, 179, 51);}
 
-.hljs-metas { color: red; }
-
-.hljs-metap { color: rgb(51, 131, 231); }
+.code-output {
+  background: var(--output-background);
+  border: 1px dashed #dbdbdb;
+}
 
 /* ==================================================================
     BOXES

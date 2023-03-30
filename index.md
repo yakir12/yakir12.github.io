@@ -22,6 +22,12 @@ Here is an example of how DataSturgeon might help a researcher in her work:
 
 > Professor Dana studies hibernation in dragons. To do so she analyses their activity by filming them. This past summer, Dana was very successful and managed to record hundreds of dragons. While she used to analyse her videos manually, doing so now seems daunting at best.\\\\She could hire a post-doc who is a dragon expert, but in most cases they are not skilled in video analysis and would cost at least one-year's salary. Her collaborator, Professor Sam, is smart with programming and could help, but he's just left for a grand research expedition. With winter approaching, Dana doesn't want to miss recording her dragon's anticipated torpor.\\\\Here is where DataSturgeon comes in: Dana contacts DataSturgeon. Dana and DataSturgeon discuss what, why, and how to analyse her videos, and agree on a contract that includes a list of deliverables, a timeline, and a budget. DataSturgeon works on the videos, reporting to Dana on the progress of the work. To prevent any snooping, DataSturgeon is always confidential with all the materials.\\\\In the mean time, Dana records her dragons' activities and torpor. DataSturgeon delivers the results to Dana on time, leaving another happy client.
 
-# Contact
+# Who
 
-By [email](mailto:yakir@datasturgeon.com).
+I, Yakir Gagnon ([resume](pages/resume/index.html)), am a passionate, creative, skilled, and driven problem solver. I have extensive experience in complex analytical procedures, teasing out discoveries from complicated data. 
+
+I developed excellent communication skills honed by more than 20 peer-reviewed publications, 30 international conference presentations, and multiple university lectures. 
+
+My experience in the Private Sector mainly comes from founding and running my own company, [DataSturgeon AB](\), where I built software tools that elevated the work of researchers around the globe, as well as from my position as a Research Software Engineer at [Beacon Biosignals](https://beacon.bio/) -- a company devoted to developing EEG neurobiomarkers that accelerate clinical trials and treatment for neurological diseases.
+
+

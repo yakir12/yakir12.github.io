@@ -5,12 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{if hasmath}} {{insert head_katex.html }}     {{end}}
   {{if hascode}} {{insert head_highlight.html }}   {{end}}
-  {{isdef title}} <title>{{fill title}}</title>  {{end}}
-
   <link rel="stylesheet" href="/css/franklin.css">
-  <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+  {{isdef title}} <title>{{fill title}}</title>  {{end}}
 </head>
 <body>
+
 <div class="franklin-content img">
   <a href="/">
     <img src="/assets/logoname.svg" alt="DataSturgeon"/>
@@ -18,4 +17,4 @@
 </div>
 <p style="color:#268bd2;text-align:center;">On-demand technical help for scientists by experts</p>
 
-  <!-- Content appended here -->
+<!-- Content appended here -->
