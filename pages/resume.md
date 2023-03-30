@@ -61,4 +61,4 @@ Awarded the Venture Cup Southern Sweden, Fokus Verifiering, Innovation Prize, an
 2002--2006 *Lund University*
 
 ## Want to know more?
-[+46 (0)728 379 876](tel:+46728379876) -- [yakir@datasturgeon.com](mailto:yakir@datasturgeon.com) -- more than 50 ⋆ in [GitHub](https://github.com/yakir12) -- more than 20 publications in [ORCiD](https://orcid.org/0000-0003-2512-4520) -- [LinkedIn](https://www.linkedin.com/in/yakir-gagnon/)
+[+46 (0)728 379 876](tel:+46728379876) -- [yakir@datasturgeon.com](mailto:yakir@datasturgeon.com) -- more than 50 ⋆ in [GitHub](https://github.com/yakir12) -- more than 20 publications in [ORCiD](https://orcid.org/0000-0003-2512-4520) -- [LinkedIn](https://www.linkedin.com/in/yakir12/)
